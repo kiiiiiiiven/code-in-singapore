@@ -6,5 +6,5 @@ Coursera PYTHON Specialization Capstone projects:
 - pagerank: collecting data of webpages, cleaning/processing data using SQLite, and output result in terms of size sequence and etc. 
 - gmane: Coursera Python Capstone project for data analysis ---> collecting emails from websites, building model, processing them in SQLite database, output results in terms of word analysis; line chart; or poster 
 
-Finance mobile: 
+Finance mobile: (CV project hopefully)
 - using C to achieve calculations in corporate finance including: loan ammortization, time value of money, capital management, bond/stock price, capital structure analysis
